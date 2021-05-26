@@ -14,7 +14,7 @@ Sou estudante de Análise e desenvolvimento de Sistemas na FATEC Rubens Lara em 
 ## Github Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizSouz404&show_icons=true&theme=omni&hide=TeX&layout=compact) 
-![Luiz Souza github stats](https://github-readme-stats.vercel.app/api?username=LuizSouz404&show_icons=true&theme=omni&&count_private=true&hide=contribs)
+![Luiz Souza github stats](https://github-readme-stats.vercel.app/api?username=LuizSouz404&show_icons=true&theme=omni&count_private=true&hide=contribs)
 
 <br>
 
