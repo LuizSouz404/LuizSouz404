@@ -10,6 +10,10 @@ Meu nome é Luiz, tenho 19 anos e estou focado em aprender e desenvolver minhas 
 
 Sou estudante de Análise e desenvolvimento de Sistemas na FATEC Rubens Lara em Santos, SP.
 
+- 👯 Estou a procura de projetos em JavaScript para colaborar 🤝.
+- 💬 Me pergunte qualquer coisa 😁.
+- ⚡ Fato divertido(e totalmente aleatório): Nós talvez estamos em uma simulação💻.
+
 <br>
 
 ## Github Stats
