@@ -3,16 +3,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LuizSouz404-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-augusto-souza-21a568176/)](https://www.linkedin.com/in/luiz-augusto-souza-21a568176/)
 [![Gmail Badge](https://img.shields.io/badge/-luiz.souz404@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luiz.souz404@gmail.com)](mailto:luiz.souz404@gmail.com)
 <br>
-<br>
-<img src="https://camo.githubusercontent.com/c18ad7d1f4275841d1d83ecd438d3fe514b1788f171259834f73fda02c719205/68747470733a2f2f7061312e6e61727669692e636f6d2f363538302f383039386336653932303733373638383965656230353332643966356130373233633464373366355f68712e676966" width="250px" align="right">
 
 Meu nome é Luiz, tenho 19 anos e estou focado em aprender e desenvolver minhas habilidades e me tornar um Desenvolvedor Full Stack.
 
 Sou estudante de Análise e desenvolvimento de Sistemas na FATEC Rubens Lara em Santos, SP.
-
-- 👯 Estou a procura de projetos em JavaScript para colaborar 🤝.
-- 💬 Me pergunte qualquer coisa 😁.
-- ⚡ Fato divertido(e totalmente aleatório): Nós talvez estamos em uma simulação💻.
 
 <br>
 
